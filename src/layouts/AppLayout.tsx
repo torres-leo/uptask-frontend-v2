@@ -7,7 +7,7 @@ export default function AppLayout() {
 		<>
 			<Header />
 
-			<div className='max-container'>
+			<div className='max-container mb-10 px-3'>
 				<Outlet />
 			</div>
 
